@@ -1,6 +1,12 @@
-<h1>Seja muito bem vindo 😀</h1>
+<div align = "center">
+	
+   <h1>Seja muito bem vindo 😀</h1>
+   <b> ### PROJETO AINDA EM DESENVOLVIMENTO ### </b>
+	
+</div>
 
-<b> ### PROJETO AINDA EM DESENVOLVIMENTO ### </b>
+<br>
+<br>
 
 <p>O projeto foi proposto no curso da Rocketseat que estou fazendo, na trilha de React Native, a ideia é fazer um aplicativo que controle suas finanças, e nesse app vai ter os seguintes fundamentos trabalhados: 🛠</p>
 
