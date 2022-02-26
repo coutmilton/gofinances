@@ -2,7 +2,7 @@
 
 <b> ### PROJETO AINDA EM DESENVOLVIMENTO ### </b>
 
-<p>O projeto foi proposto no curso da Rocketseat que estou fazendo na trilha de React Native, a ideia é fazer um aaplicativo de que controle suas finanças, e nesse app vai ter os seguintes fundamentos trabalhados: 🛠</p>
+<p>O projeto foi proposto no curso da Rocketseat que estou fazendo, na trilha de React Native, a ideia é fazer um aplicativo que controle suas finanças, e nesse app vai ter os seguintes fundamentos trabalhados: 🛠</p>
 
 <div>
     <ul>
@@ -10,7 +10,7 @@
       <li>TypeScript</li>
       <li>JavaScript</li>
       <li>Style Components(CSS-in-JS)</li>
-      <li>API Nativas</li>
+      <li>API's Nativas</li>
       <li>Armazenamento Local com Async Storage</li>
       <li>Navegação</li>
       <li>Formulários</li>
