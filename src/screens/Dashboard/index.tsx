@@ -3,14 +3,15 @@ import React from "react";
 import { 
         Container,
         Header,
+        UserWrapper,
         UserInfo,
         Photo,
         User,
         UserGreeting,
         UserName,
-        UserWrapper
-}from './styles'
+        Icon
 
+}from './styles'
 
 export function Dashboard(){
     return (
@@ -25,6 +26,8 @@ export function Dashboard(){
                             <UserName>Miltin</UserName>
                         </User>
                     </UserInfo>
+                    
+                    <Icon name="power"/>
                 </UserWrapper>
             </Header>
 
